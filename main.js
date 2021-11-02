@@ -34,3 +34,8 @@ console.log(addedApps.join('\n'));
 
 // isValid, linha 20
 // contentOfTag, linha 3
+
+// (Exercício 4) Identifique quais funções são high-order
+    // Adicione um comentário identificando-as
+
+// curry. linhas 3 e 20
