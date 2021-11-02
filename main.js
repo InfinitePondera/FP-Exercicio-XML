@@ -22,3 +22,9 @@ console.log(addedApps.join('\n'));
 // getGithubProject, linha 11
 // elementsToArray, linha 13
 // isValid, linha 20
+
+// (Exercício 2) Identifique quais funções no projeto possuem efeitos colaterais (side-effects)
+    // Adicione um comentário identificando-as
+
+// getGithubProject, linha 11
+// elementsToArray, linha 13
