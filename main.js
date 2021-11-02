@@ -28,3 +28,9 @@ console.log(addedApps.join('\n'));
 
 // getGithubProject, linha 11
 // elementsToArray, linha 13
+
+// (Exercício 3) Identifique quais funções são curried
+    // Adicione um comentário identificando-as
+
+// isValid, linha 20
+// contentOfTag, linha 3
