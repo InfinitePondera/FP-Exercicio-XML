@@ -39,3 +39,7 @@ console.log(addedApps.join('\n'));
     // Adicione um comentário identificando-as
 
 // curry. linhas 3 e 20
+
+// (Exercício 5) Crie um novo arquivo main2.js (baseado no main.js) que seleciona todos as apps adicionadas
+// depois do ano 2000 e atualizadas em 2020. Ao imprimir as apps, além do nome, imprima
+// a data que foi adicionada e a data da última atualização.
